@@ -14,4 +14,10 @@ public class MessageUtil {
       System.out.println(message);
       return message;
    }   
+
+   public static void main(String[] args){
+	MessageUtil demo = new MessageUtil("Hello World");
+	demo.printMessage();
+   }
+
 }  
