@@ -11,7 +11,7 @@ public class MessageUtil {
       
    // prints the message
    public String printMessage(){
-      System.out.println(message);
+      System.out.println(msg);
       return message;
    }   
 }  
