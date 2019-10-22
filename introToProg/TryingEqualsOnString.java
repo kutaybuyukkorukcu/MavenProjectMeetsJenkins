@@ -31,5 +31,4 @@ public class TryingEqualsOnString {
 
 		System.out.println(str7.equals(str8));
 		System.out.println(str7 == str8);
-	}
-}
+	

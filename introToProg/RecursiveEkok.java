@@ -2,7 +2,7 @@ package com.freetime.exercises.introToProg;
 
 import java.util.Scanner;
 
-public class RecurisveEkok {
+public class RecursiveEkok {
 
 	static int n, m, ekok;
 
@@ -10,6 +10,8 @@ public class RecurisveEkok {
 		int prod;
 		if (b % a == 0) {
 			return b;
+		} else if (a % b == 0) {
+			return a;
 		} else {
 			prod = a * b;
 			while (a != b) {
