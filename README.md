@@ -1,1 +1,3 @@
-<h3> Some of the basic exercises i did when i was trying to learn Java for the first time </h3>
+# Java Workplace
+
+This repository contains java stuff i dabbled through. Random source codes, some things i tried out quickly etc.
